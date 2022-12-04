@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#ff25beff" />
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/bpb_logo" android:scaleType="fitCenter" android:tileMode="disabled" />
+    </item>
+</layer-list>
